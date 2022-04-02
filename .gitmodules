@@ -1,0 +1,15 @@
+[submodule "Xoodyak"]
+	path = Xoodyak
+	url = https://github.com/GMUCERG/Xoodyak.git
+[submodule "LWC"]
+	path = LWC
+	url = https://github.com/GMUCERG/LWC.git
+[submodule "PHOTON-Beetle"]
+	path = PHOTON-Beetle
+	url = https://github.com/GMUCERG/PHOTON-Beetle.git
+[submodule "TinyJAMBU"]
+	path = TinyJAMBU
+	url = https://github.com/GMUCERG/TinyJAMBU.git
+[submodule "Elephant"]
+	path = Elephant
+	url = https://github.com/GMUCERG/Elephant.git
